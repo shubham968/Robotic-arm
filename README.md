@@ -39,7 +39,7 @@ I designed:
 ![Standalone](images/arm_assembled.png)
 
 ### Mounted on Mobile Platform
-![Mounted](images/arm_mounted.png)
+![Mounted](images/arm_mounted_4WD.png)
 
 ## System Design
 
