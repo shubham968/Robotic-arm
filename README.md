@@ -2,7 +2,7 @@
 
 
 ## Overview
-This project is a modular robotic arm system designed to perform basic manipulation tasks such as gripping and object handling. The arm can operate as a standalone unit or be mounted on a mobile robotic platform, enabling both fixed and mobile manipulation.
+This project is a modular robotic arm system designed for STEM education and  to perform basic manipulation tasks such as gripping and object handling. The arm can operate as a standalone unit or be mounted on a mobile robotic platform, enabling both fixed and mobile manipulation. 
 
 The design focuses on flexibility, modularity, and ease of integration with different robotic systems.
 
