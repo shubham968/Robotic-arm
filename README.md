@@ -1,6 +1,5 @@
 # Modular Robotic Arm System
 
-![Standalone Arm](images/arm_standalone.png)
 
 ## Overview
 This project is a modular robotic arm system designed to perform basic manipulation tasks such as gripping and object handling. The arm can operate as a standalone unit or be mounted on a mobile robotic platform, enabling both fixed and mobile manipulation.
@@ -37,7 +36,7 @@ I designed:
 ## Design Images
 
 ### Standalone Configuration
-![Standalone](images/arm_standalone.png)
+![Standalone](images/arm_assembled.png)
 
 ### Mounted on Mobile Platform
 ![Mounted](images/arm_mounted.png)
